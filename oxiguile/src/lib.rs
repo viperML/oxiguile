@@ -1,4 +1,4 @@
-use guile_bindings::SCM;
+use guile_sys::SCM;
 
 #[no_mangle]
 pub extern "C" fn hello() {

@@ -1,5 +1,5 @@
 [package]
-name = "guile-bindings"
+name = "guile-sys"
 version = "0.1.0"
 edition = "2021"
 
